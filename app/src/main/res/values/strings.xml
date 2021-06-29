@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Aidana</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Aidana!
+          I love myself and money.
+          There was problem with writing about myself.
+        I hope it is ok!
+
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
